@@ -1,1 +1,3 @@
-# AMAZON_CART_FP_JS
+# AMAZON CART FP JS
+
+Code Only 🤫, No `UI` 😱
